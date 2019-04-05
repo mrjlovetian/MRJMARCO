@@ -1,0 +1,6 @@
+framework module MRJMARCO {
+  umbrella header "MRJMARCO-umbrella.h"
+
+  export *
+  module * { export * }
+}

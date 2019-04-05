@@ -1,0 +1,6 @@
+framework module Pods_MRJMARCO_Example {
+  umbrella header "Pods-MRJMARCO_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
